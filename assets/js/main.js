@@ -1,2 +1,4 @@
-alert ('This page has been loaded')
-console.log('This page is working')
+const test = () => {
+    console.log('I was called!!')
+}
+
